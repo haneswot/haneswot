@@ -1,0 +1,5 @@
+starport scaffold chain github.com/cosmonaut/mars
+
+cd mars
+
+starport chain serve
